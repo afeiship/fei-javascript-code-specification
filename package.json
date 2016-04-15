@@ -1,0 +1,15 @@
+{
+  "name": "fei-javascript-code-specification",
+  "version": "0.0.0",
+  "description": "My code specification",
+  "homepage": "https://github.com/afeiship/fei-javascript-code-specification",
+  "author": {
+    "name": "afei",
+    "email": "1290657123@qq.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-load-plugins": "^1.2.0"
+  }
+}
