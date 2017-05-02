@@ -1,2 +1,1 @@
-#fei-javascript-code-specification
-My code specification
+# fei-javascript-code-specification
