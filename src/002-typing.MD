@@ -1,8 +1,7 @@
-#关于代码排版的一些事情:
+# 关于代码排版的一些事情:
 
-##editorconfig
+## 统一使用Webstrom/PhpStorm 以及 editorconfig 配置文件：
 ```conf
-
 root = true
 
 [*]
@@ -14,6 +13,4 @@ insert_final_newline = true
 
 [*.md]
 trim_trailing_whitespace = false
-
-
 ```
