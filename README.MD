@@ -1,1 +1,2 @@
-# fei-javascript-code-specification
+# front-end-dev-specification
+> Front end develop specification.
