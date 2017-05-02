@@ -1,4 +1,4 @@
-# 关于代码排版的一些事情:
+# 代码排版:
 
 ## 统一使用Webstrom/PhpStorm 以及 editorconfig 配置文件：
 ```conf
