@@ -28,3 +28,5 @@ else
 //
 ```
 
+## swich/case
++ 这个语句可以帮助写出清晰的分支，强制写default
