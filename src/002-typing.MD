@@ -1,4 +1,5 @@
 # 代码排版:
+> 统一格式，方便git等版本工作来diff
 
 ## 统一使用Webstrom/PhpStorm 以及 editorconfig 配置文件：
 ```conf
