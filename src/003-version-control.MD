@@ -17,6 +17,11 @@
 + 第3位：一般是bug的更新，或者很小的功能迭代，需要快速上线，上线周期小于7天的迭代  (dev_1.1.1 --> dev_1.1.2)
 + 第4位：线上项目有bug需要立即修复  (dev_1.1.2 --> dev_1.1.2.1)
 
+## 版本上线
++ 新的版本上线，稳定运行1天，合代码到master上
++ 保留最近10-20个dev分支的代码
++ 新拉分支，永远从master上进行
+
 ## 关于提交git的一些备注信息：原则上，必须
 + 功能相关：[issue/feature]
 ```conf
@@ -33,8 +38,6 @@ bugfix: ios7 crash when images too much.
 optimize: lazyLoading for swiper
 optimize: bug-6752
 ```
-
-
 
 ## resouces:
 + http://www.jianshu.com/p/860fdd8860cc
