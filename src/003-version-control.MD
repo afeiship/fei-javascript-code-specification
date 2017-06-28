@@ -33,3 +33,8 @@ bugfix: ios7 crash when images too much.
 optimize: lazyLoading for swiper
 optimize: bug-6752
 ```
+
+
+
+## resouces:
++ http://www.jianshu.com/p/860fdd8860cc
