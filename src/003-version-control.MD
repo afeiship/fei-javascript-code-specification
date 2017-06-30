@@ -23,22 +23,22 @@
 + 新拉分支，永远从master上进行
 
 ## 关于提交git的一些备注信息：原则上，必须
-> 动词: [v版本号(去掉点的)] 备注信息/bug-编号
+> [v版本号(去掉点的-统一四位)]动词:  备注信息/bug-编号
 
 + 功能相关：[issue/feature]
 ```conf
-issue: [v1022] add validation for add lot
-issue: [v1022] xxx
+[v1022]issue: add validation for add lot
+[v1022]issue: xxx
 ```
 + bug修复：[bugfix]
 ```conf
-bugfix: [v1022] bug-6512
-bugfix: [v1022] ios7 crash when images too much.
+[v1020]bugfix: bug-6512
+[v1020]bugfix: ios7 crash when images too much.
 ```
 + 性能优化：[optimize]
 ```conf
-optimize: [v1023] lazyLoading for swiper
-optimize: [v1023] bug-6752
+[v1023]optimize: lazyLoading for swiper
+[v1023]optimize: bug-6752
 ```
 
 ## resouces:
