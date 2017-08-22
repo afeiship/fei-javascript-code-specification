@@ -35,3 +35,7 @@ else
 ## 三元表达式：
 + 一般最多一层嵌套
 + 原则上：不要做编译器，或者压缩工作帮你做的事情
+
+
+## 参考：
++ https://github.com/baifendian/fe-style-guide

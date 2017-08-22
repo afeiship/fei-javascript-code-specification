@@ -33,3 +33,4 @@ yo react-multipage:service
 
 ## 参考：
 + https://github.com/afeiship/generator-react-multipage
++ https://github.com/baifendian/fe-style-guide/blob/master/React.md
