@@ -1,0 +1,4 @@
+# 关于readme的作用
+
+## 关于readme的文件标准写法：
++ 以这个名字 README.md 标准命名
