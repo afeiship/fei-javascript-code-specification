@@ -1,2 +1,2 @@
-# front-end-dev-specification
+# frontend-dev-specification
 > Front end develop specification.

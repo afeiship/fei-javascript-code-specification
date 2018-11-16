@@ -1,8 +1,8 @@
 {
-  "name": "fei-javascript-code-specification",
-  "version": "0.0.0",
-  "description": "My code specification",
-  "homepage": "https://github.com/afeiship/fei-javascript-code-specification",
+  "name": "frontend-dev-specification",
+  "version": "1.0.0",
+  "description": "Front end develop specification.",
+  "homepage": "https://github.com/afeiship/frontend-dev-specification",
   "author": {
     "name": "afei",
     "email": "1290657123@qq.com"
