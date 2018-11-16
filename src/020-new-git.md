@@ -15,4 +15,5 @@
 
 ## description:
 > 并加入自己代号缩写如 prefix/modules#yourname
-feature/wits#pan bugfix/articles#pan
+- feature: wits#pan 
+- bugfix: articles#pan
