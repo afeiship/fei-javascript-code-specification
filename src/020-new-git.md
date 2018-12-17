@@ -1,9 +1,9 @@
 # new-git commit message:
 
 ## commit message guide
-- feature: 新增一个完整feature
+- feat: 新增一个完整feature
 - add: 新增小功能 如加一个类型或者一个button
-- bugfix: 修复bug
+- fix: 修复bug
 - docs: 仅仅修改了文档，比如README, CHANGELOG, CONTRIBUTE等等
 - style: 仅仅修改了空格、格式缩进、都好等等，不改变代码逻辑
 - refactor: 代码重构，没有加新功能或者修复bug
@@ -15,6 +15,6 @@
 
 ## description:
 > 并加入自己代号缩写如 prefix: modules#yourname
-
-- feature: wits#pan 
-- bugfix: articles#pan
+- feature 新功能开发
+- bugfix bug修复
+- refactor 代码重构
