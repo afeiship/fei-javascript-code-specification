@@ -14,9 +14,11 @@
 - chore: 改变构建流程、或者增加依赖库、工具等
 - revert: 回滚到上一个版本
 
-
-## description:
-> 并加入自己代号缩写如 prefix: feature/modules#yourname
+## branch:
 - feature 新功能开发
 - bugfix bug修复
 - refactor 代码重构
+
+## example:
+> commit msg: feat: color select panel
+> branch: feature/modules#yourname
