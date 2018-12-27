@@ -16,7 +16,7 @@
 
 
 ## description:
-> 并加入自己代号缩写如 prefix: modules#yourname
+> 并加入自己代号缩写如 prefix: feature/modules#yourname
 - feature 新功能开发
 - bugfix bug修复
 - refactor 代码重构
