@@ -3,6 +3,8 @@
 ## commit message guide
 - feat: 新增一个完整feature
 - add: 新增小功能 如加一个类型或者一个button
+- remove: 移除小功能 如删除某一段代码，或者删除某个UI
+- update: 原有逻辑更新
 - fix: 修复bug
 - docs: 仅仅修改了文档，比如README, CHANGELOG, CONTRIBUTE等等
 - style: 仅仅修改了空格、格式缩进、都好等等，不改变代码逻辑
