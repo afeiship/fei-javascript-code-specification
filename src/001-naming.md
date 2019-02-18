@@ -25,6 +25,7 @@
 
 ### 序列化，反序列化：
 > 灵感来源： slate
+
 | name        | description |
 |-------------|-------------|
 | serialize   | 序列化      |
@@ -32,7 +33,8 @@
 
 ### 编码，反编码：
 > 灵感来源： isomorphic-base64
-| name        | description |
-|-------------|-------------|
-| encode   | 序列化      |
+
+| name   | description |
+|--------|-------------|
+| encode | 序列化      |
 | decode | 反序列化    |
