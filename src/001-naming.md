@@ -36,5 +36,5 @@
 
 | name   | description |
 |--------|-------------|
-| encode | 序列化      |
-| decode | 反序列化    |
+| encode | 编码        |
+| decode | 反编码      |
