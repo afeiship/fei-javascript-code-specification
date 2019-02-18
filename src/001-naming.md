@@ -27,10 +27,11 @@
 ### 序列化，反序列化：
 > 灵感来源： slate
 
-| name        | description |
-|-------------|-------------|
-| serialize   | 序列化      |
-| deserialize | 反序列化    |
+| name        | description    |
+|-------------|----------------|
+| serialize   | 序列化         |
+| deserialize | 反序列化       |
+| serializer  | 序列化的具体类 |
 
 ### 编码，反编码：
 > 灵感来源： isomorphic-base64
