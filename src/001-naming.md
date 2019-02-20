@@ -40,3 +40,10 @@
 |--------|-------------|
 | encode | 编码        |
 | decode | 反编码      |
+
+### 转换器：
+> jquery.cookie 源码
+
+| name      | description |
+|-----------|-------------|
+| converter | 转换器      |
