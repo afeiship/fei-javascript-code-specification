@@ -47,3 +47,11 @@
 | name      | description |
 |-----------|-------------|
 | converter | 转换器      |
+
+### 常见功能: 收藏、点赞、关注
+> 自己经验.
+| name            | description |
+|-----------------|-------------|
+| star/unstar     | 收藏        |
+| like/unlike     | 点赞        |
+| follow/unfollow | 关注        |
