@@ -56,3 +56,13 @@
 | star/unstar     | 收藏        |
 | like/unlike     | 点赞        |
 | follow/unfollow | 关注        |
+
+
+### 常用 Help/protocol 页面
+> 常用的帮助，协议页面.
+
+| name       | description |
+|------------|-------------|
+| agreement  | 用户须知    |
+| disclaimer | 免责声明    |
+
