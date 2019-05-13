@@ -3,4 +3,4 @@
 
 
 ## 关于readme的文件标准写法：
-+ 以这个名字 README.md 标准命名
++ 以这个名字 README.md(NOT README.MD/readme.md) 标准命名
