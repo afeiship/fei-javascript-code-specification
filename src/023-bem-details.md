@@ -32,3 +32,25 @@
 | Header | .nx-dialog > .hd          | .nx-dialog__header           |
 | Close  | .nx-dialog > .hd > .close | .nx-dialog__close            |
 | Title  | .nx-dialog > .hd > .label | .mod-label .nx-dialog__title |
+| Body   | .nx-dialog > .bd          | .mod-bd .nx-dialog__body     |
+| Footer | .nx-dialog > .ft          | .mod-ft .nx-dialog__footer   |
+
+
+## behaviors (with modifer)
+> example: nx-form
+
+| Role   | OOCSS    | BemName           |
+| ------ | -------- | ----------------- |
+| Action | .create  | .nx-form--create  |
+| Action | .update  | .nx-form--update  |
+| Action | .destroy | .nx-form--destroy |
+
+
+## status (with modifer)
+> example: nx-alert
+
+| Role    | OOCSS   | BemName         |
+| Success | .pass | .nx-alert--pass   |
+| Failed  | .failed | .nx-alert--failed |
+
+
