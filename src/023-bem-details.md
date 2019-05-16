@@ -41,9 +41,9 @@
 
 | Role   | OOCSS    | BemName           |
 | ------ | -------- | ----------------- |
-| Action | .create  | .nx-form--create  |
-| Action | .update  | .nx-form--update  |
-| Action | .destroy | .nx-form--destroy |
+| Add    | .create  | .nx-form--create  |
+| Edit   | .update  | .nx-form--update  |
+| Delete | .destroy | .nx-form--destroy |
 
 
 ## status (with modifer)
