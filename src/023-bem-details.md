@@ -49,8 +49,9 @@
 ## status (with modifer)
 > example: nx-alert
 
-| Role    | OOCSS   | BemName         |
-| Success | .pass | .nx-alert--pass   |
+| Role    | OOCSS   | BemName           |
+| ------- | ------- | ----------------- |
+| Success | .pass   | .nx-alert--pass   |
 | Failed  | .failed | .nx-alert--failed |
 
 
