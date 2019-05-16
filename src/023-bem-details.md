@@ -1,4 +1,14 @@
 # BEM details
+> 自己对 CSS BEM 的理解。
+
+## description
+1. Block: 组件名
+2. Element: 
+   1. 这里可以是 components 名字
+   2. 也可以是 role 的名字
+3. Modifer: status/action
+4. 规范： `nx-block__elem--modifer`
+
 
 ## layouts
 
