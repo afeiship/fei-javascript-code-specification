@@ -24,3 +24,4 @@
 ## resources
 - http://getbem.com/naming/
 - https://www.cnblogs.com/dujishi/p/5862911.html
+- https://www.ibm.com/developerworks/cn/web/1512_chengfu_bem/
