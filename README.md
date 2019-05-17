@@ -1,5 +1,5 @@
 # frontend-dev-specification
 > Front end develop specification.
 
-## resouces:
+## resources
 - https://github.com/ghengeveld/react-redux-styleguide
