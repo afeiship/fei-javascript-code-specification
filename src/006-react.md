@@ -30,6 +30,13 @@ yo react-multipage:module-multi
 yo react-multipage:service
 ```
 
+## 组件名
+```js
+<div className="my-component" data-component="my-component">
+  // ... codes
+</div>
+```
+
 
 ## 参考：
 + https://github.com/afeiship/generator-react-multipage
