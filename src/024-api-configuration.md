@@ -11,6 +11,7 @@
 | create  | 创建         | 创建逻辑(POST)               |
 | update  | 更新/编辑    | 更新/编辑逻辑(POST/PUT)      |
 | destroy | 销毁/删除    | 销毁/删除逻辑(POST/DELETE)   |
+| show    | 详情页       | 不区分 desc/detail 的情况    |
 | desc    | 详情页(简短) | 一些简短的详情(GET/POST)     |
 | detail  | 详情页(完整) | 一般指CURD的详情页，参数为ID |
 
