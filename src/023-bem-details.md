@@ -7,9 +7,9 @@
    1. 这里可以是 components 名字
    2. 也可以是 role 的名字
 3. Modifer: status/action
-4.1 标准的状态： `nx-block__elem is--modifer`
-4.2 一些行为： `nx-block__elem action--xxx`
-4.3 允许扩展：这条待定 (visible--true/false | status--a/n-f)
+4.1 标准的状态： `nx-block__elem is-modifer`
+4.2 一些行为： `nx-block__elem action-xxx`
+4.3 允许扩展：这条待定 (visible-true/false | status-a/n-f)
 
 
 ## 1. layouts
@@ -45,8 +45,8 @@
 
 | Role   | OOCSS    | BemName         |
 | ------ | -------- | --------------- |
-| Add    | .create  | .action--create  |
-| Edit   | .update  | .action--update  |
+| Add    | .create  | .action-create  |
+| Edit   | .update  | .action-update  |
 | Delete | .destroy | .action-destroy |
 
 
@@ -55,7 +55,7 @@
 
 | Role    | OOCSS   | BemName    |
 | ------- | ------- | ---------- |
-| Success | .pass   | .is--pass   |
-| Failed  | .failed | .is--failed |
+| Success | .pass   | .is-pass   |
+| Failed  | .failed | .is-failed |
 
 
