@@ -7,9 +7,10 @@
    1. 这里可以是 components 名字
    2. 也可以是 role 的名字
 3. Modifer: status/action
-4.1 标准的状态： `nx-block__elem is-modifer`
-4.2 一些行为： `nx-block__elem action-xxx`
-4.3 允许扩展：这条待定 (visible-true/false | status-a/n-f)
+4. 一些扩展：
+  1. 标准的状态： `nx-block__elem is-modifer`
+  2. 一些行为： `nx-block__elem action-xxx`
+  3. 允许扩展：这条待定 (visible-true/false | status-a/n-f)
 
 
 ## 1. layouts
