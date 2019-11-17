@@ -21,5 +21,8 @@
 - refactor 代码重构
 
 ## example:
-> commit msg: feat: color select panel
-> branch: feature/modules#yourname
+- commit msg: 
+  - feat: color select panel
+  - add: a button for submit
+- branch: 
+  - feature/modules#yourname
