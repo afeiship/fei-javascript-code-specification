@@ -7,10 +7,10 @@
 
 
 ## 业务组件：
-+ 暂时不用React SFC方式定义组件，统一编码用es6 class extends PureComponent 方式：
++ 暂时不用React SFC方式定义组件，统一编码用es6 class extends Component 方式：
 ```jsx
-import  AppBase, {$api} from 'components/scripts/index';
-export default class extends React.PureComponent {
+import { $api } from 'services/index';
+export default class extends React.Component {
   render() {
     return (
       <div className="my-component">
