@@ -38,5 +38,5 @@ yo react-app:mixin
 
 
 ## 参考：
-+ https://github.com/afeiship/generator-react-multipage
++ https://github.com/afeiship/generator-react-app
 + https://github.com/baifendian/fe-style-guide/blob/master/React.md
