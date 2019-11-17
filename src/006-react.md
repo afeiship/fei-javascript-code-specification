@@ -24,10 +24,9 @@ export default class extends React.Component {
 ## 脚手架：
 + commands:
 ```bash
-yo react-multipage:component
-yo react-multipage:module
-yo react-multipage:module-multi
-yo react-multipage:service
+yo react-app:view
+yo react-app:service
+yo react-app:mixin
 ```
 
 ## 组件名
