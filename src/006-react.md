@@ -11,6 +11,33 @@
 ```jsx
 import { $api } from 'services/index';
 export default class extends React.Component {
+  // static area;
+  static displayName = 'my-component';
+  static defaultProps = {};
+
+  // properties
+  get value(){
+    return 123;
+  }
+
+  // prototype - contructor
+  constructor(inProps){
+    super(inProps);
+    this.state = {
+      value: inProps.value
+    }
+  }
+
+  componentDidMount() {
+  }
+
+  componentWillUnmount() {
+  }
+
+  // user actions
+  onChange = inEvent => {};
+
+  // view
   render() {
     return (
       <div className="my-component">
