@@ -63,6 +63,11 @@ yo react-app:mixin
 </div>
 ```
 
+## event/onClick-vs-handleClick
+```js
+<button onClick={this.handleClick}>
+```
+
 
 ## 参考：
 + https://github.com/afeiship/generator-react-app
